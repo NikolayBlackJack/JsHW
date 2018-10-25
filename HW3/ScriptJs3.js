@@ -36,7 +36,6 @@ alert(rach);
         }
 
     }
-//
 
     let f;
     let rah = 0;
