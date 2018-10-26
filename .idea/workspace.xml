@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffab0855-c7ce-4a30-acc9-bc63c6726b66" name="Default Changelist" comment="jghjg">
-      <change afterPath="$PROJECT_DIR$/HW2/HW. JS-02/ДЗ Умовні оператори.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/JS.Homework.02.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/JS3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/script3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ffab0855-c7ce-4a30-acc9-bc63c6726b66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/HW5-6/index5-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW5-6/index5-6.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,33 +18,34 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="12" />
-          <entry key="js" value="27" />
+          <entry key="html" value="13" />
+          <entry key="js" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="12" />
-          <entry key="JavaScript" value="27" />
+          <entry key="HTML" value="13" />
+          <entry key="JavaScript" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="28" />
-          <entry key="js" value="1671" />
-          <entry key="txt" value="13" />
+          <entry key="js" value="1672" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="28" />
-          <entry key="JavaScript" value="1671" />
-          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="JavaScript" value="1672" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -58,13 +55,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HW3/script3.js">
+        <entry file="file://$PROJECT_DIR$/HW5-6/script5-6.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -113,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,11 +125,15 @@
               <item name="JsHW" type="462c0819:PsiDirectoryNode" />
               <item name="HW3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JsHW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JsHW" type="462c0819:PsiDirectoryNode" />
+              <item name="HW5-6" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,6 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1540061034437</updated>
       <workItem from="1540061044841" duration="21159000" />
+      <workItem from="1540555048648" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="jghjg">
       <created>1540061394031</created>
@@ -186,7 +186,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21159000" />
+    <option name="totallyTimeSpent" value="21390000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -199,7 +199,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24981412" />
@@ -229,7 +228,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jghjg" />
     <MESSAGE value="Код дз 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Код дз 2" />
+    <MESSAGE value="cod" />
+    <option name="LAST_COMMIT_MESSAGE" value="cod" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -237,7 +237,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/HW2/Js.js</url>
           <line>22</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -257,7 +256,6 @@
           <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1540113566314" expanded="true" signature="1268:1269" ph="..." />
           </folding>
         </state>
       </provider>
@@ -266,26 +264,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HW3/JS3.html">
+    <entry file="file://$PROJECT_DIR$/HW3/JS3.html" />
+    <entry file="file://$PROJECT_DIR$/HW3/script3.js" />
+    <entry file="file://$PROJECT_DIR$/HW3/script5-6.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW3/ScriptJs3.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW5-6/index5-6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="135">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HW3/script3.js">
+    <entry file="file://$PROJECT_DIR$/HW5-6/script5-6.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
