@@ -9,14 +9,7 @@ alert(factorial(5));
 
 
 function fib(f) {
-    let a = 1;
-        b = 1;
-    for (let i = 3; i <= f; i++) {
-        let c = a + b;
-        a = b;
-        b = c;
-    }
-    return b;
+    return n <= 1 ? n : func(n - 1) + func(n - 2);
 }
 alert(fib(10));
 
