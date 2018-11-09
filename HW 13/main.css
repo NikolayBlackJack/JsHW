@@ -1,0 +1,89 @@
+*{
+    margin: 0 auto;
+}
+.buttonHid{
+    float: right;
+    background-color: red;
+    border-radius: 50%;
+}
+div{
+    background-color: aqua;
+    width: 510px;
+    border-top: 1px solid green;
+    border-bottom: 1px solid green;
+}
+p{
+    width: 500px;
+}
+#buttonDiv1{
+    position: relative;
+    bottom: 96px;
+    float: right;
+    background-color: red;
+    border-radius: 50%;
+}
+#buttonDiv2{
+    position: relative;
+    bottom: 97px;
+    float: right;
+    background-color: red;
+    border-radius: 50%;
+}
+#buttonDiv3{
+    position: relative;
+    bottom: 124px;
+    float: right;
+    background-color: red;
+    border-radius: 50%;
+}
+ul{
+    height: 130px;
+    width: 9999px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    transition: margin-left 250ms;
+    font-size: 0;
+}
+li{
+    display: inline-block;
+}
+#container{
+    position: relative;
+    width: 398px;
+    padding: 10px 40px;
+    border: 1px solid #CCC;
+    border-radius: 15px;
+    background: #eee;
+    top: 40px;
+}
+#arrow1{
+    position: absolute;
+    left: 10px;
+    top: 60px;
+    padding: 0;
+    background: #ddd;
+    border-radius: 15px;
+    border: 1px solid gray;
+    font-size: 24px;
+    line-height: 24px;
+    color: #444;
+    display: block;
+}
+#arrow2{
+    position: absolute;
+    right: 10px;
+    top: 60px;
+    padding: 0;
+    background: #ddd;
+    border-radius: 15px;
+    border: 1px solid gray;
+    font-size: 24px;
+    line-height: 24px;
+    color: #444;
+    display: block;
+}
+#divimg{
+    width: 390px;
+    overflow: hidden;
+}
