@@ -167,14 +167,13 @@
         e.dataTransfer.dropEffect = 'move';
     }
     function handleDrop(e) {
-        if (e.preventDefault()){
+        if (e.preventDefault()) {
             e.preventDefault();
         }
         if (dragSrcEl !== this){
             dragSrcEl.innerHTML = this.innerHTML;
             this.innerHTML = e.dataTransfer.getData('text/html');
         }
-		console.log(dragSrcEl);
         return false;
     }
     function initEvent() {
